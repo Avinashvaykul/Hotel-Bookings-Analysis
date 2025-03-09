@@ -10,6 +10,7 @@ Data Cleaning & Preprocessing:
 Handling missing values, encoding categorical variables, and normalizing numerical features.
 
 Time Series Analysis:
+
 Forecasting hotel bookings using AR, MA, ARMA, and ARIMA models.
 
 Evaluating models using MAE, RMSE, and MAPE metrics.
