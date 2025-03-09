@@ -14,7 +14,9 @@ Time Series Analysis:
 Forecasting hotel bookings using AR, MA, ARMA, and ARIMA models.
 
 Evaluating models using MAE, RMSE, and MAPE metrics.
+
 Machine Learning Models for Cancellation Prediction:
+
 Logistic Regression
 Decision Tree
 Random Forest
