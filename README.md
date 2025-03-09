@@ -5,7 +5,8 @@ Project Overview:
 This project analyzes hotel booking data, performs time series forecasting, and builds machine learning models to predict booking cancellations.
 
 Features:
-Data Cleaning & Preprocessing: ]
+Data Cleaning & Preprocessing:
+
 Handling missing values, encoding categorical variables, and normalizing numerical features.
 
 Time Series Analysis:
