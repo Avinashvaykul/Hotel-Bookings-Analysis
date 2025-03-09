@@ -14,9 +14,9 @@ Forecasting hotel bookings using AR, MA, ARMA, and ARIMA models.
 Evaluating models using MAE, RMSE, and MAPE metrics.
 
 Machine Learning Models for Cancellation Prediction:
-Logistic Regression
-Decision Tree
-Random Forest
-Gradient Boosting
+Logistic Regression,
+Decision Tree,
+Random Forest,
+Gradient Boosting.
 
 Evaluated using Accuracy, Precision, Recall, F1-score, and ROC-AUC.
