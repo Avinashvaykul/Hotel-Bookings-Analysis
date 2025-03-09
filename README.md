@@ -5,6 +5,7 @@ This project analyzes hotel booking data, performs time series forecasting, and 
 
 Features:
 Data Cleaning & Preprocessing:
+
 Handling missing values, encoding categorical variables, and normalizing numerical features.
 
 Time Series Analysis:
